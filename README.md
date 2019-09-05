@@ -6,8 +6,8 @@ In this project we will learn how to deploy a Web API to `heroku`.
 
 ## Prerequisites
 
-- Sign up for a [heroku](https://www.heroku.com/) free account.
+- [x] Sign up for a [heroku](https://www.heroku.com/) free account.
 
 ## Instructions
 
-Please fork this repository and follow along **using your fork** as the instructor deploys the API to `heroku`.
+[x] Please fork this repository and follow along **using your fork** as the instructor deploys the API to `heroku`.
